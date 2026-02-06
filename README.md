@@ -1,8 +1,7 @@
 # React-Todo-app
 This Todo-app also hosted in Netlify.com. 
 
-1️⃣ Project Title
-todo-app
+1️⃣ Project Title :- todo-app
 
 2️⃣ Short Description
 - A simple and responsive Todo Application built using React.js.  
