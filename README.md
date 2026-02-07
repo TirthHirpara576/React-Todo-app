@@ -3,16 +3,6 @@
 1️⃣ Project Title :- Todo-App
 
 2️⃣ Short Description
-- A simple and responsive Todo Application built using React.js.  
-- It allows users to add, edit, delete, and mark tasks as completed.  
-- This project helps in understanding React concepts like components, state, and props.
-
-3️⃣ Features
-# React-Todo-app
-
-1️⃣ Project Title :- Todo-App
-
-2️⃣ Short Description
 - A simple and responsive Todo Application built using React.js.
 - It allows users to add, edit, delete, and mark tasks as completed.
 - This project helps in understanding React concepts like components, state, and props.
