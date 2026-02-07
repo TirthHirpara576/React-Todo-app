@@ -1,6 +1,6 @@
 # React-Todo-app
 
-1️⃣ Project Title :- todo-app
+1️⃣ Project Title :- Todo-App
 
 2️⃣ Short Description
 - A simple and responsive Todo Application built using React.js.  
